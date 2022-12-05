@@ -15,4 +15,4 @@ Authors: Widob Team
 | Doha Zrouki      | 1958859       | doha.zrouki@polymtl.ca                |
 
 
- We hereby state that all the work presented in this report
+ We hereby state that all the work presented in this report is that of the authors
